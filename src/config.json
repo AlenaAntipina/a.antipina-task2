@@ -1,0 +1,7 @@
+{
+  "browser" : "chrome",
+  "wait_time" : "10",
+  "load_page_time" : "30",
+  "wait_visibility" : "10",
+  "url" : "https://store.steampowered.com/"
+}
